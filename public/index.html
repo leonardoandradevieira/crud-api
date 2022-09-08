@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <header>
+        <h1>FRONT API</h1>
+    </header>
+
+    <main>
+        <form>
+            <h2>FORMULÁRIO DE CADASTRO DE USUÁRIOS</h2>
+            <p>Preencha os dados abaixo:</p>
+            <div>
+                <input type="text" id="nameInput" placeholder="Nome Completo">
+                <input  type="email" id="emailInput" placeholder="Endereço de E-mail">
+                <button type="button" onclick="cadastrarUsuario()">Cadastrar</button>
+            </div>
+        </form>
+
+        <section>
+            <h2>LISTA DE USUÁRIOS CADASTRADOS</h2>
+            <p>Abaixo, você pode ver os usuários registrados, podendo editá-los ou removê-los.</p>
+
+            <table>
+                <tr>
+                    <th width="50px">ID</th>
+                    <th width="300px">NOME</th>
+                    <th width="300px">E-MAIL</th>
+                    <th width="100px">EDITAR</th>
+                    <th width="100px">EXCLUIR</th>
+                </tr>
+            </table>
+        </section>
+    </main>
+
+    <script src="./index.js"></script>
+</body>
+</html>

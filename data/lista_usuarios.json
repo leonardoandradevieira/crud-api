@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Leo",
+    "email": "leonardo@email.com",
+    "deleted": "false",
+    "id": 0
+  },
+  {
+    "name": "Luao",
+    "email": "luao@email.com",
+    "deleted": "true",
+    "id": 1
+  },
+  {
+    "name": "ana",
+    "email": "ana@email.com",
+    "deleted": "false",
+    "id": 2
+  },
+  {
+    "name": "lauran",
+    "email": "lauran@email.com",
+    "deleted": "false",
+    "id": 3
+  },
+  {
+    "name": "davi2",
+    "email": "davi2@email.com",
+    "deleted": "true",
+    "id": 4
+  },
+  {
+    "name": "Marcus",
+    "email": "marcusv@email.com",
+    "deleted": "true",
+    "id": 5
+  },
+  {
+    "name": "felipe",
+    "email": "felipe@email.com",
+    "deleted": "false",
+    "id": 6
+  },
+  {
+    "name": "neto",
+    "email": "neto@email.com",
+    "deleted": "false",
+    "id": 7
+  },
+  {
+    "name": "adri",
+    "email": "adri",
+    "deleted": "false",
+    "id": 8
+  },
+  {
+    "name": "outro",
+    "email": "outro@email.com",
+    "deleted": "true",
+    "id": 9
+  },
+  {
+    "name": "editar",
+    "email": "editar@email.com",
+    "deleted": "true",
+    "id": 10
+  }
+]
